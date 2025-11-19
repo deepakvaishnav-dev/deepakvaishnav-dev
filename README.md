@@ -99,7 +99,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakvaishnav-dev&show_icons=true&layout=compact&theme=radical" />
 </p>
 
-<p align="center">
+<p align="right">
 <img src="https://github-readme-stats.vercel.app/api?username=deepakvaishnav-dev&show_icons=true&theme=radical" />
 </p>
 
