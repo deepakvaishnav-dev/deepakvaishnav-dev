@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Deepak Vaishnav</h1>
 <h3 align="center">A passionate Fullstack web developer.</h3>
 
@@ -15,10 +16,9 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **[Read-recall](https://github.com/deepakvaishnav-dev/read-recall)**  
-- 🌱 I’m currently learning **React, Vue & Angular**  
-- 👯 I’m looking to collaborate with **Gautam-Vaishnav**  
-- 🤝 I’m looking for help with **Deepak-Vaishnav**  
+- 🔭All of my projects are available at [github.com] (https://github.com/deepakvaishnav-dev)**  
+- 🌱  I’m currently learning more about **web technologies and design patterns**
+  - 🤝 I’m looking for help with **Deepak-Vaishnav**  
 - 📫 Reach me at **deepakvaishnav486@gmail.com**
 
 ---
