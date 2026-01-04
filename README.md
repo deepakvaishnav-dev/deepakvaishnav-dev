@@ -56,19 +56,20 @@
 
 ---
 
+ 📊 GitHub Stats
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepak-vaishnav-dev&theme=dark&show_icons=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-vaishnav-dev&theme=dark&layout=compact)  
+![Streak](https://streak-stats.demolab.com/?user=deepak-vaishnav-dev&theme=dark)
+
  🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=deepak-vaishnav-dev&theme=radical&no-bg=true)
-
----
+ 
  ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
- 👀 Visitors Count
+👀 Visitors Count
 [![Visitor Count](https://visitcount.itsvg.in/api?id=deepak-vaishnav-dev&icon=2&color=0)](https://visitcount.itsvg.in)
 
----
  💰 Support Me
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/deepakvaishnav)  
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/deepakvaishnav)
