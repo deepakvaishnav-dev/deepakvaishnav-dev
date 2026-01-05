@@ -48,18 +48,14 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 ---
-
-📊 GitHub Stats
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepak-vaishnav-dev&theme=dark&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-vaishnav-dev&theme=dark&layout=compact)  
-![Streak](https://nirzak-streak-stats.vercel.app/?user=deepak-vaishnav-dev&theme=dark)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=deepakvaishnav-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?username=deepakvaishnav-dev&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakvaishnav-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
- 📊 GitHub Stats
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepak-vaishnav-dev&theme=dark&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-vaishnav-dev&theme=dark&layout=compact)  
-![Streak](https://streak-stats.demolab.com/?user=deepak-vaishnav-dev&theme=dark)
+---
 
  🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=deepak-vaishnav-dev&theme=radical&no-bg=true)
