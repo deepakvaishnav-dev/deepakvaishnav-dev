@@ -1,245 +1,685 @@
-<!-- ================= WAVE HEADER ================= -->
-<img width="100%" alt="header wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Deepak%20Vaishnav&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20|%20MERN%20|%20TypeScript&descAlignY=55&descSize=20" />
-
-<!-- ================= TYPING ANIMATION ================= -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img alt="typing animation" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;TypeScript+Enthusiast;Building+Scalable+Web+Apps;Always+Learning%2C+Always+Building" />
-  </a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,50:00C9FF,100:00F5A0&text=Deepak%20Vaishnav&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20TypeScript&descAlignY=58"/>
+
 </div>
 
-<!-- ================= HERO / CODING GIF ================= -->
-<p align="center">
-  <img alt="coding gif" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450">
-</p>
+<div align="center">
+
+# 👋 Hi, I'm Deepak Vaishnav
+
+### 🚀 Full Stack Developer | MERN Stack | TypeScript | React | Node.js
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Developer;React+Developer;Node.js+Developer;TypeScript+Lover;Always+Learning+New+Things;Building+Scalable+Applications"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=deepakvaishnav-dev&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/deepakvaishnav-dev?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💫 About Me
+
+<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+### 👨‍💻 Full Stack Web Developer
+
+- 🚀 Currently working as **Full Stack Developer**
+
+- 🌱 Learning **Next.js, Docker, AWS & System Design**
+
+- 💻 Passionate about **React, TypeScript, Node.js**
+
+- ⚡ Love building scalable applications
+
+- 🎯 Goal: Become a Senior Software Engineer
+
+- 📍 Jaipur, Rajasthan, India
+
+- 📧 deepakvaishnav486@gmail.com
+
+- 💼 Open for Freelance & Full-Time Opportunities
+
+<br clear="right"/>
+
+---
+
+# 🌍 Connect With Me
 
 <p align="center">
-  <img alt="profile views" src="https://komarev.com/ghpvc/?username=deepakvaishnav-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img alt="followers" src="https://img.shields.io/github/followers/deepakvaishnav-dev?label=Followers&style=for-the-badge&color=0e75b6" />
-  <img alt="available for work" src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20WORK-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" />
+
+<a href="https://www.linkedin.com/in/deepak-vaishnav-5185b9396/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/___mr__dv_____/">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="mailto:deepakvaishnav486@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://behance.net/deepakvaishnav">
+<img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-### 🧭 Quick Navigation
-<p align="center">
-<a href="#-about-me">About</a> •
-<a href="#-tech-stack">Tech Stack</a> •
-<a href="#-experience">Experience</a> •
-<a href="#-featured-projects">Projects</a> •
-<a href="#-github-stats">Stats</a> •
-<a href="#-certifications">Certifications</a> •
-<a href="#-current-goals">Goals</a> •
-<a href="#-connect-with-me">Connect</a>
-</p>
+# ⚡ Current Focus
 
----
+```text
+🚀 Building Production Ready MERN Applications
 
-## 💫 About Me
+📚 Learning
 
-```typescript
-const deepak = {
-  role: "Full Stack Web Developer",
-  stack: ["React", "Next.js", "Node.js", "TypeScript", "MongoDB"],
-  currentFocus: "System design & scalable architecture",
-  funFact: "I turn coffee into clean, working code ☕",
-  openTo: "Freelance & Full-time opportunities"
-};
+✔ Next.js
+✔ Docker
+✔ AWS
+✔ React Native
+✔ System Design
+
+🎯 2026 Goals
+
+✔ Open Source Contributions
+✔ Build SaaS Products
+✔ Crack Top Product Based Companies
+✔ Master Full Stack Development
 ```
 
-- 🔭 Currently working as a **Full Stack Developer**
-- 🌱 Deepening my skills in **system design, scalable architecture & design patterns**
-- 💼 Open to **freelance / full-time** web development opportunities
-- 👨‍💻 All my work: [github.com/deepakvaishnav-dev](https://github.com/deepakvaishnav-dev)
-- 📫 Reach me: **deepakvaishnav486@gmail.com**
-- ⚡ Fun fact: I debug faster with music on 🎧
+# 💻 Tech Arsenal
 
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img alt="tech stack icons" src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,redux,tailwind,bootstrap,mongodb,mysql,git,github,postman,figma,vercel,netlify&theme=dark" />
-</p>
-
-<details>
-<summary>📌 See full stack as badges</summary>
-<br/>
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,redux,tailwind,bootstrap,docker,git,github,postman,vscode,figma,vercel,netlify&perline=7"/>
 
 </div>
-</details>
 
 ---
 
-## 💼 Experience
+# 🚀 Professional Skills
 
-> Apna real work-history yahan daalein — chahe wo internship, freelance ya full-time role ho.
+<table align="center">
 
-**[Job Title] · [Company Name]**
-`[Month Year] – Present`
-- One-line achievement with a number (e.g. "Built and shipped 3 production features used by 2,000+ users")
-- One-line achievement (e.g. "Reduced page load time by 40% through code-splitting and lazy loading")
-
-**[Previous Role] · [Company/Freelance]**
-`[Month Year] – [Month Year]`
-- One-line achievement
-- One-line achievement
-
----
-
-## 🚀 Featured Projects
-
-> Apne top projects yaha daalein — recruiter sabse pehle ye section dekhte hain.
-
-<table>
 <tr>
+
 <td width="50%">
 
-### 🔹 [Project Name 1](#)
-One-line impact-focused description
-(e.g. "E-commerce platform with 500+ products, Stripe payments, and admin dashboard")
+### 🎨 Frontend
 
-`React` `Node.js` `MongoDB` `Stripe`
-
-[🔗 Live Demo](#) &nbsp;|&nbsp; [💻 Source Code](#)
+- ⚛ React.js
+- ▲ Next.js
+- 📜 JavaScript (ES6+)
+- 🔷 TypeScript
+- 🎨 Tailwind CSS
+- 🎭 Bootstrap
+- 💎 Material UI
+- 🔄 Redux Toolkit
 
 </td>
+
 <td width="50%">
 
-### 🔹 [Project Name 2](#)
-One-line impact-focused description
-(e.g. "Real-time chat app with Socket.io supporting 1000+ concurrent users")
+### ⚙ Backend
 
-`Next.js` `TypeScript` `Socket.io`
-
-[🔗 Live Demo](#) &nbsp;|&nbsp; [💻 Source Code](#)
+- 🟢 Node.js
+- 🚂 Express.js
+- 🍃 MongoDB
+- 🐬 MySQL
+- 🔥 REST APIs
+- 🔐 JWT Authentication
+- ☁ Cloud Deployment
+- 📦 API Integration
 
 </td>
+
 </tr>
-<tr>
-<td width="50%">
 
-### 🔹 [Project Name 3](#)
-One-line impact-focused description
-
-`React` `Redux` `Express`
-
-[🔗 Live Demo](#) &nbsp;|&nbsp; [💻 Source Code](#)
-
-</td>
-<td width="50%">
-
-### 🔹 [Project Name 4](#)
-One-line impact-focused description
-
-`Next.js` `Tailwind` `PostgreSQL`
-
-[🔗 Live Demo](#) &nbsp;|&nbsp; [💻 Source Code](#)
-
-</td>
-</tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+# ⚡ Developer Toolkit
 
-<p align="center">
-  <img height="165" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=deepakvaishnav-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakvaishnav-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img alt="streak stats" src="https://streak-stats.demolab.com/?user=deepakvaishnav-dev&theme=tokyonight&hide_border=true" />
-</p>
+| Category | Technologies |
+|-----------|--------------|
+| 💻 Languages | JavaScript • TypeScript |
+| 🎨 Frontend | React • Next.js • Tailwind • Redux |
+| ⚙ Backend | Node.js • Express |
+| 🗄 Database | MongoDB • MySQL |
+| 🛠 Tools | Git • GitHub • VS Code • Postman |
+| 🚀 Deployment | Vercel • Netlify |
 
-<p align="center">
-  <img alt="activity graph" width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=deepakvaishnav-dev&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=deepakvaishnav-dev&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7" />
-</p>
+</div>
 
 ---
 
-<details>
-<summary>🐍 Contribution Snake (click to expand setup steps)</summary>
-<br/>
+# 📊 Skill Level
 
-<p align="center">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/deepakvaishnav-dev/deepakvaishnav-dev/output/github-contribution-grid-snake-dark.svg" />
-</p>
+```text
+React.js           ████████████████████ 95%
 
-**Setup (one-time, ~2 minutes):**
-1. `deepakvaishnav-dev/deepakvaishnav-dev` repo mein jao (ye special profile repo)
-2. `.github/workflows/snake.yml` naam ki file banao
-3. [Platane/snk](https://github.com/Platane/snk) repo ke README se ready workflow copy karo
-4. Actions tab mein jaake workflow ko ek baar manually run karo
-5. Uske baad ye image apne aap daily generate hogi
+Node.js            ██████████████████░░ 90%
 
-</details>
+Express.js         ██████████████████░░ 90%
 
----
+MongoDB            █████████████████░░░ 88%
 
-## 🎓 Certifications
+JavaScript         ███████████████████░ 92%
 
-> Apne certificates yaha list karein (name, issuing platform, link).
+TypeScript         █████████████████░░░ 87%
 
-- **[Certificate Name]** — [Issuing Platform] — [View Certificate](#)
-- **[Certificate Name]** — [Issuing Platform] — [View Certificate](#)
+Next.js            ███████████████░░░░░ 80%
+
+Tailwind CSS       ███████████████████░ 93%
+
+Git & GitHub       ███████████████████░ 92%
+
+REST API           ██████████████████░░ 90%
+```
 
 ---
 
-## 🎯 Current Goals
+# 🎯 Currently Learning
 
-- [ ] Contribute to 5+ open-source projects this year
-- [ ] Master system design & backend architecture at scale
-- [ ] Build and ship 3 full-stack SaaS projects
-- [ ] Get AWS / Cloud certification
-- [ ] Cross 1000+ GitHub contributions this year
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,react"/>
 
-## 🌍 Connect with Me
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/deepak-vaishnav-5185b9396/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://bsky.app/profile/deepakvaishnav.bsky.social"><img alt="bluesky" src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF" /></a>
-  <a href="https://www.behance.net/deepakvaishnav"><img alt="behance" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
-  <a href="mailto:deepakvaishnav486@gmail.com"><img alt="email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+```text
+🐳 Docker
 
-<p align="center">
-  <a href="https://buymeacoffee.com/deepakvaishnav"><img alt="buy me a coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-  <a href="https://ko-fi.com/deepakvaishnav"><img alt="ko-fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-</p>
+☁ AWS
+
+☸ Kubernetes
+
+📱 React Native
+
+🏗 System Design
+
+🤖 AI Integration
+```
 
 ---
 
-<!-- ================= FOOTER ================= -->
-<img width="100%" alt="footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+# 💼 Experience
 
-<p align="center"><i>⭐️ Thanks for visiting — feel free to explore my repos and connect!</i></p>
+```text
+💻 Full Stack Web Development
+
+✔ Responsive UI Development
+
+✔ REST API Development
+
+✔ Authentication
+
+✔ Database Design
+
+✔ Admin Panels
+
+✔ Dashboard Development
+
+✔ AI Integration
+
+✔ Chrome Extensions
+
+✔ Performance Optimization
+```
+
+---
+
+# 🌟 What I Love
+
+💙 Writing Clean Code
+
+🚀 Solving Real World Problems
+
+📚 Learning New Technologies
+
+🎯 Building Scalable Products
+
+☕ Coffee + Coding
+
+🌙 Night Coding Sessions
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+> 💡 Turning ideas into scalable, production-ready applications.
+
+</div>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 📚 Study Buddy AI
+
+<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge"/>
+
+AI-powered learning platform designed to help students learn faster using Artificial Intelligence.
+
+### 🚀 Features
+
+- 🤖 AI Chat Assistant
+- 🔐 Authentication
+- 📚 Smart Learning
+- 📄 Notes Management
+- 🌙 Dark Mode
+- 📱 Responsive Design
+
+### 🛠 Tech Stack
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+
+### 🔗 Links
+
+🌐 Live Demo
+
+https://study-buddy-ai-kohl.vercel.app/
+
+📂 GitHub
+
+https://github.com/deepakvaishnav-dev
+
+</td>
+
+<td width="50%">
+
+## 💰 Expense Tracker AI
+
+<img src="https://img.shields.io/badge/Status-Development-blue?style=for-the-badge"/>
+
+Modern Expense Management Application with AI-powered insights.
+
+### 🚀 Features
+
+- 📊 Dashboard
+- 💳 Expense Tracking
+- 📈 Analytics
+- 🤖 AI Suggestions
+- 📱 Mobile Friendly
+- 🌙 Dark Theme
+
+### 🛠 Tech Stack
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+
+### 🔗 Links
+
+🌐 Live Demo
+
+Coming Soon
+
+📂 GitHub
+
+Private Repository
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🌐 Chrome Extension
+
+Productivity extension built using React & TypeScript.
+
+### Features
+
+✔ Authentication
+
+✔ Dashboard
+
+✔ API Integration
+
+✔ Performance Optimized
+
+### Tech
+
+React
+
+TypeScript
+
+Express
+
+MongoDB
+
+GitHub
+
+</td>
+
+<td width="50%">
+
+## 🌍 Portfolio Website
+
+Modern Portfolio Website with beautiful UI.
+
+### Features
+
+✔ Animations
+
+✔ Responsive
+
+✔ Dark Mode
+
+✔ SEO Optimized
+
+### Tech
+
+Next.js
+
+Tailwind
+
+Framer Motion
+
+TypeScript
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📈 Project Highlights
+
+🏆 10+ Production Projects
+
+🚀 MERN Stack Applications
+
+⚡ Modern UI/UX
+
+🔐 Secure Authentication
+
+📱 Responsive Design
+
+🤖 AI Integration
+
+☁ Cloud Deployment
+
+📊 REST APIs
+
+---
+
+# 💼 Services
+
+✔ Full Stack Development
+
+✔ MERN Stack
+
+✔ React Development
+
+✔ REST API Development
+
+✔ Dashboard Development
+
+✔ Admin Panel
+
+✔ Authentication System
+
+✔ Database Design
+
+✔ AI Integration
+
+✔ Performance Optimization
+
+---
+
+<div align="center">
+
+## 💡 "First, solve the problem. Then, write the code."
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=deepakvaishnav-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakvaishnav-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=deepakvaishnav-dev&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=deepakvaishnav-dev&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=deepakvaishnav-dev&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# ⚡ GitHub Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepakvaishnav-dev&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepakvaishnav-dev&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepakvaishnav-dev&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepakvaishnav-dev&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepakvaishnav-dev&theme=tokyonight&utcOffset=5.5"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepakvaishnav-dev&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📌 Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepakvaishnav-dev&theme=github_dark"/>
+
+</div>
+
+---
+
+# 💻 Development Workflow
+
+```text
+💡 Idea
+   │
+   ▼
+🎨 UI Design
+   │
+   ▼
+⚛ React Development
+   │
+   ▼
+🟢 Backend API
+   │
+   ▼
+🍃 Database
+   │
+   ▼
+🧪 Testing
+   │
+   ▼
+🚀 Deployment
+```
+
+```javascript
+const deepak = {
+    code: ["JavaScript", "TypeScript"],
+
+    frontend: [
+        "React",
+        "Next.js",
+        "Redux",
+        "Tailwind CSS"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express.js"
+    ],
+
+    database: [
+        "MongoDB",
+        "MySQL"
+    ],
+
+    currentFocus: [
+        "System Design",
+        "Docker",
+        "AWS",
+        "React Native"
+    ],
+
+    motto: "Build. Learn. Improve. Repeat."
+}
+```
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/deepakvaishnav-dev/deepakvaishnav-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</div>
+
+---
+
+# 🏅 Achievements
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Full%20Stack-MERN-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/TypeScript-Lover-3178C6?style=for-the-badge&logo=typescript"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Always-Learning-orange?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🚀 Developer Mindset
+
+```text
+✅ Clean Code
+
+✅ Scalable Architecture
+
+✅ Problem Solving
+
+✅ Performance Optimization
+
+✅ Responsive UI
+
+✅ Secure Authentication
+
+✅ REST APIs
+
+✅ Database Design
+
+✅ Cloud Ready
+
+✅ Continuous Learning
+```
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:6C63FF,100:A855F7&height=140&section=footer"/>
+
+# 💙 Thanks for visiting my profile
+
+### ⭐ If you like my work, consider giving a ⭐ to my repositories.
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+For+Visiting+❤️;Happy+Coding+🚀;See+You+Again+👋"/>
+
+</div>
