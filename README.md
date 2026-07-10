@@ -583,45 +583,6 @@ TypeScript
    ▼
 🚀 Deployment
 ```
-
-```javascript
-const deepak = {
-    code: ["JavaScript", "TypeScript"],
-
-    frontend: [
-        "React",
-        "Next.js",
-        "Redux",
-        "Tailwind CSS"
-    ],
-
-    backend: [
-        "Node.js",
-        "Express.js"
-    ],
-
-    database: [
-        "MongoDB",
-        "MySQL"
-    ],
-
-    currentFocus: [
-        "System Design",
-        "Docker",
-        "AWS",
-        "React Native"
-    ],
-
-    motto: "Build. Learn. Improve. Repeat."
-}
-```
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/deepakvaishnav-dev/deepakvaishnav-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
 </div>
 
 ---
