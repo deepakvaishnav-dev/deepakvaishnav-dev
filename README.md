@@ -1,27 +1,29 @@
-<h1 align="center">Hi 👋, I'm Deepak Vaishnav</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Web Developer | MERN Stack | TypeScript | React | Node.js
-</h3>
+# Hi 👋, I'm Deepak Vaishnav
 
-<p align="center">
-Building scalable web applications with clean architecture and modern technologies.
+### 🚀 Full Stack Developer | MERN Stack | TypeScript | React | Node.js
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Building+Scalable+Web+Applications" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=deepakvaishnav-dev&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/deepakvaishnav-dev?style=social" />
+<img src="https://img.shields.io/github/stars/deepakvaishnav-dev?style=social" />
 </p>
+
+</div>
 
 ---
 
 # 💫 About Me
 
-🚀 Full Stack Developer passionate about building modern web applications.
-
-- 🔭 Currently working as a **Full Stack Developer**
-- 🌱 Learning **System Design, Design Patterns, Next.js and Cloud**
-- 💻 Passionate about **JavaScript, TypeScript, React and Node.js**
-- ⚡ Love building scalable and user-friendly applications
-- 👨‍💻 Portfolio of my work:
-  https://github.com/deepakvaishnav-dev
-- 📫 Reach me:
-  **deepakvaishnav486@gmail.com**
+- 💼 Full Stack Developer
+- 🚀 Building scalable web applications
+- 🌱 Currently learning **System Design**, **Cloud** and **Next.js**
+- 💡 Passionate about Clean Code & Design Patterns
+- ⚡ Love solving real-world problems through technology
+- 📫 **deepakvaishnav486@gmail.com**
 
 ---
 
@@ -30,23 +32,19 @@ Building scalable web applications with clean architecture and modern technologi
 <p align="left">
 
 <a href="https://www.linkedin.com/in/deepak-vaishnav-5185b9396/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="https://www.instagram.com/___mr__dv_____/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
 <a href="https://behance.net/deepakvaishnav" target="_blank">
-<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
-</a>
-
-<a href="https://bsky.app/profile/deepakvaishnav.bsky.social" target="_blank">
-<img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=figma"/>
 </a>
 
 <a href="mailto:deepakvaishnav486@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
@@ -55,122 +53,110 @@ Building scalable web applications with clean architecture and modern technologi
 
 # 💻 Tech Stack
 
-## Languages
+### Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=html,css,js,ts"/>
-
 </p>
 
-## Frontend
+### Frontend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap"/>
-
 </p>
 
-## Backend
+### Backend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
 </p>
 
-## Database
+### Database
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
 </p>
 
-## Tools
+### Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,netlify"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,vercel,netlify"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 📚 Study Buddy AI
+## 📚 Study Buddy AI
 
-AI-powered study platform with authentication, AI assistance and modern UI.
+AI-powered learning platform built using React, Node.js, Express and OpenAI API.
 
-### 💰 Expense Tracker AI
+---
 
-Track expenses with analytics and AI-powered insights.
+## 💰 Expense Tracker AI
 
-### 🌐 Chrome Extension
+Modern expense management application with analytics and beautiful UI.
 
-A productivity extension built using React, TypeScript and Express.
+---
+
+## 🌐 Chrome Extension
+
+Productivity extension developed using React, TypeScript and Express.
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepakvaishnav-dev&show_icons=true&theme=radical"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=deepakvaishnav-dev&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakvaishnav-dev&layout=compact&theme=radical"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakvaishnav-dev&layout=compact&theme=radical&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=deepakvaishnav-dev&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=deepakvaishnav-dev&theme=radical&hide_border=true"/>
 
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=deepakvaishnav-dev&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakvaishnav-dev&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakvaishnav-dev&theme=react-dark&hide_border=true"/>
 
-</p>
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=deepakvaishnav-dev&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
 
 ---
 
 # ✍️ Random Dev Quote
 
-<p align="center">
+<div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
-</p>
+</div>
 
 ---
 
-# 👀 Profile Views
+<div align="center">
 
-<p align="center">
+### ⭐ Thanks for visiting my profile ⭐
 
-<img src="https://komarev.com/ghpvc/?username=deepakvaishnav-dev&label=Profile%20Views&color=0e75b6&style=flat"/>
+*"Code. Learn. Build. Repeat."*
 
-</p>
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+</div>
