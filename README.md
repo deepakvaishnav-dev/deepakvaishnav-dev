@@ -117,7 +117,7 @@ A productivity extension built using React, TypeScript and Express.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepakvaishnav-dev&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepakvaishnav-devs&show_icons=true&theme=radical"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakvaishnav-dev&layout=compact&theme=radical"/>
 
@@ -125,7 +125,7 @@ A productivity extension built using React, TypeScript and Express.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=deepakvaishnav-dev&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=deepakvaishnav-devs&theme=radical"/>
 
 </p>
 
@@ -135,7 +135,7 @@ A productivity extension built using React, TypeScript and Express.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=deepakvaishnav-dev&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=deepakvaishnav-devs&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 
