@@ -62,7 +62,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://www.instagram.com/___mr__dv_____/">
+<a href="https://www.instagram.com/___mr__dv_____">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
